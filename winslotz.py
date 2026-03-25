@@ -7,10 +7,10 @@ import string
 import os
 
 # --- 1. Configuration (UPDATED) ---
-BOT_TOKEN = '8481818955:AAFRdwHiHDB9OnEQ4Sjo7SoMcg60bBvBuhc' # NEW TOKEN
-CHANNEL_USERNAME = '@Testing55551' 
-ADMIN_USERNAME = '@Fasttaget' 
-ADMIN_IDS = [7762779824, 7565458414] # NEW ADMIN IDs
+BOT_TOKEN = 'Your_Bot_Token' # NEW TOKEN
+CHANNEL_USERNAME = 'Your_Channel_Username' 
+ADMIN_USERNAME = 'Your_Username' 
+ADMIN_IDS = [Your_Admin_Id] # NEW ADMIN IDs
 REFERRER_REWARD = 15.00 
 REFERRED_BONUS = 5.00   
 DB_NAME = 'winslotzz_bot.db' # Updated DB Name
